@@ -1,0 +1,5 @@
+de	1
+mortuis	1
+aut	6
+bene	1
+nihil	2
